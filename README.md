@@ -1,6 +1,9 @@
-# Regenerative Agriculture Advisor
+# William Dario Velásquez 
 
-#### Technical Skills: 
+#### Technical Skills:     
+- Family Farming and Diversified Edible Forests.
+- Soil Restoration through soil conservation measures such as terraces (hilly areas) and circular bio-gardens (flat areas).
+- Guadua/Bamboo Stands.
 
 ## Education
 - Bachelor's in Agroenvironmental Education and Natural Sciences, graduated from the Faculty of Education at Politécnico Colombiano Jaime Isaza Cadavid, Medellín.
