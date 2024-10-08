@@ -1,5 +1,5 @@
 # William Dario Velásquez 
-
+![williamvelasquez.png]
 #### Technical Skills:     
 - Family Farming and Diversified Edible Forests.
 - Soil Restoration through soil conservation measures such as terraces (hilly areas) and circular bio-gardens (flat areas).
