@@ -1,11 +1,10 @@
 # Regenerative Agriculture Advisor
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor's in Agroenvironmental Education and Natural Sciences, graduated from the Faculty of Education at Politécnico Colombiano Jaime Isaza Cadavid, Medellín.
+- Agricultural Technologies, graduated from the Faculty of Agricultural Sciences at Politécnico Colombiano Jaime Isaza Cadavid, Medellín.
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
